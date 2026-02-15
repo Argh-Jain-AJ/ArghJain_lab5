@@ -34,7 +34,6 @@ Template Classification
  Visualizations
 
  Template Classification Result
-
 ![Template Classification](images/template_result.png)
 
 
